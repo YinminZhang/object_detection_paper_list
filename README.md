@@ -22,11 +22,11 @@
 
 ### two-stage
 
-1. **[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation|[`[pdf]`](https://arxiv.org/pdf/1311.2524)[`[official code - caffe]`](https://github.com/rbgirshick/rcnn)
+1. **[R-CNN]** Rich feature hierarchies for accurate object detection and semantic segmentation [`[pdf]`](https://arxiv.org/pdf/1311.2524)[`[official code - caffe]`](https://github.com/rbgirshick/rcnn)
 
-2. **[Fast R-CNN]** Fast R-CNN | [`[pdf]`](https://arxiv.org/pdf/1504.08083)[`[official code - caffe]`](https://github.com/rbgirshick/fast-rcnn)
+2. **[Fast R-CNN]** Fast R-CNN  [`[pdf]`](https://arxiv.org/pdf/1504.08083)[`[official code - caffe]`](https://github.com/rbgirshick/fast-rcnn)
 
-3. **[Faster R-CNN]** Faster R-CNN | [`[pdf]`](https://arxiv.org/pdf/1506.01497) [`[official code - caffe]`](https://github.com/rbgirshick/py-faster-rcnn)[`[code - pytorch]`](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
+3. **[Faster R-CNN]** Faster R-CNN  [`[pdf]`](https://arxiv.org/pdf/1506.01497) [`[official code - caffe]`](https://github.com/rbgirshick/py-faster-rcnn)[`[code - pytorch]`](https://github.com/chenyuntc/simple-faster-rcnn-pytorch)
 
 ### one-stage
 
@@ -76,7 +76,7 @@
 
 9. **[DenseBox]** Objects as Points [`[pdf]`](https://arxiv.org/pdf/1509.04874) [`[code - pytorch]`](https://github.com/CaptainEven/DenseBox)
 
-10. **[RepPoints]** RepPoints: Point Set Representation for Object Detection	| **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1904.11490)[`[offical code - pytorch]`](https://github.com/microsoft/RepPoints)
+10. **[RepPoints]** RepPoints: Point Set Representation for Object Detection [`[pdf]`](https://arxiv.org/pdf/1904.11490)[`[offical code - pytorch]`](https://github.com/microsoft/RepPoints)
 
 ## Instance Segmentation
 1. **[Mask R-CNN]** Mask R-CNN [`[pdf]`](https://arxiv.org/pdf/1703.06870) [`[offical code - caffe]`](https://github.com/facebookresearch/Detectron)[`[code - pytorch]`](https://github.com/multimodallearning/pytorch-mask-rcnn)
